@@ -214,7 +214,7 @@ html {
     }
 
     .faq-question p {
-        width: calc(100% - 15px);
+        width: calc(100% - 20px);
     }
 
     .faq-title {
