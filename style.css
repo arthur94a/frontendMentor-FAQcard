@@ -213,12 +213,8 @@ html {
         width: 100%;
     }
 
-    .faq-question:after {
-        background-position-x: right;
-    }
-
     .faq-question p {
-        width: calc(100% - 10px);
+        width: calc(100% - 15px);
     }
 
     .faq-title {
